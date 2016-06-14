@@ -1,0 +1,12 @@
+{
+  "name": "once-on-transition-end",
+  "version": "1.0.0",
+  "description": "A higher order function that provides a timeout to the `transitionEnd` event",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:jonathanp/once-on-transition-end.git"
+  },
+  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "license": "MIT"
+}
